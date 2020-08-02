@@ -1,0 +1,36 @@
+
+.myicon {
+    padding: 5px;
+    background: rgb(52, 58,64);
+    color: white;
+    min-width: 40px;
+    text-align: center;
+    height: 30px;
+    padding-top: 8px;;
+  }
+
+  img{
+      height:80px;
+      width: 80px;
+      padding: 10px;
+  }
+
+  .mybutton{
+      border: 0.5px solid black;
+      border-radius: 10px;
+      padding: 10px;
+      background-color: orange;
+  }
+  a{
+    color: black;
+  }
+.currentuser{
+    color: red;
+}
+
+.mymodal{
+    background-color:rgb(209, 169, 174);
+  padding:20px;
+    height: 100%;
+    width: 100%;
+}
