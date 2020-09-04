@@ -10,7 +10,7 @@
     "bootstrap": "^4.5.0",
     "font-awesome": "^4.7.0",
     "lodash": "^4.17.19",
-    "react": "0.0.0-7f28234f8",
+    "react": "0.14.0",
     "react-bootstrap": "^1.3.0",
     "react-dom": "0.0.0-7f28234f8",
     "react-hook-form": "^6.2.0",
